@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/malak-el-3oyoun/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Malak El 3oyoun](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Commercial Licensing for Malak El 3oyoun](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
