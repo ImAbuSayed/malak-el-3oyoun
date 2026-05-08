@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Malak El 3oyoun
+
+This log tracks the cryptographic history and versioning for the song **Malak El 3oyoun** (malak-el-3oyoun).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:58:37.932841 | `v1` | `1d3dcda21690361a0afdaf341dfcf63415acc1ca828def71967655e0e163dec1` | `e16ac3f2ba0431f97f203fad417d893cce68161fecd8fe3d42c9b874af9e3ff6` | `2026-05-08_malak-el-3oyoun-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
